@@ -7,7 +7,7 @@ Geoscience Multiverse
 
 ### figmm::conf 2023 workshop
 
-by  Ing. A.Otiniano, Ing. J.Andrade & Ing. Robert. Perez - Dr. Jimmy Rosales Huamani
+by  Ing. A.Otiniano, Ing. J.Andrade - Dr. Jimmy Rosales Huamani
 Grupo: Sensado Multidisciplinario, Accesibilidad Universaly Machine Learning
 
 Este repositorio es la base para el desarrollo del curso Geodatabase e Introducción Análisis de Dato (SQL – R – Qgis - Python)
@@ -37,7 +37,7 @@ Este repositorio es la base para el desarrollo del curso Geodatabase e Introducc
 
 * Alonso Otiniano [@OtinianoAlonso](https://twitter.com/OtinianoAlonso)
 * Joseps Andrade [@jacxter666 ](https://twitter.com/jacxter666)
-* Robert Perez [@roberthcero](https://twitter.com/roberthcero)
+
 
 **Auspiciado por: Phd. Dr. Jimmy Rosales**
 
